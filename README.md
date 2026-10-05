@@ -40,6 +40,24 @@ This project analyzes employee attrition, compensation, demographics, satisfacti
 | Average Age | 37 |
 | Average Monthly Income | 6,503 |
 
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](executive-overview.png)
+
+### Employee & Compensation Analysis
+
+![Employee & Compensation Analysis](employee-compensation.png)
+
+### Employee Risk & Satisfaction Analysis
+
+![Employee Risk & Satisfaction Analysis](risk-satisfaction.png)
+
+### Interactive Analysis
+
+![Interactive Analysis](interactive-analysis.png)
+
 ## Project File
 
 The main Power BI report is provided as a `.pbix` file and can be opened using Power BI Desktop.
